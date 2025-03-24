@@ -19,10 +19,10 @@ An enthusiastic Data Science student with a strong drive to apply analytics and 
 🔥 PyTorch   |   🔶 TensorFlow   |   📊 Scikit-Learn  
 
 **Tools & Libraries:**  
-👁️ OpenCV   |   🧩 Neo4j (Graph Database)   |   🌐 BeautifulSoup (Web Scraping)  
+👁️ OpenCV   |   🧩 Neo4j    |   🌐 BeautifulSoup 
 
 **Databases & Backend:**  
-💾 MySQL (Relational DB)   |   🏛️ Oracle   |   📂 JSON APIs  
+💾 MySQL  |   🏛️ Oracle   |   📂 JSON APIs  
 
 
 ---
