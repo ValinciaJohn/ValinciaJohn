@@ -9,19 +9,15 @@ A passionate Data Science student with a strong drive to apply analytics and adv
 ▸ Skilled in developing **real-time systems**, working with **ASR technologies**, and implementing **deep learning techniques** for practical problem-solving.  
 
 ---
-
-## 🛠 Tech Stack  
-**Languages:**  
-◉ Python &nbsp;&nbsp; ◉ C++ &nbsp;&nbsp; ◉ SQL  
-
-**Frameworks:**  
-◉ PyTorch &nbsp;&nbsp; ◉ TensorFlow &nbsp;&nbsp; ◉ Scikit-Learn  
-
-**Tools & Libraries:**  
-◉ OpenCV &nbsp;&nbsp; ◉ Neo4j &nbsp;&nbsp; ◉ BeautifulSoup  
-
-**Databases & Backend:**  
-◉ MySQL &nbsp;&nbsp; ◉ Oracle &nbsp;&nbsp; ◉ JSON APIs  
+## 🔧 Tech Stack  
+╔═══════════════════╦══════════════════════════════╗
+║     Category       ║          Technologies        ║
+╠═══════════════════╬══════════════════════════════╣
+║ Languages          ║ Python · C++ · SQL           ║
+║ Frameworks         ║ PyTorch · TensorFlow · Scikit-Learn ║
+║ Tools & Libraries  ║ OpenCV · Neo4j · BeautifulSoup║
+║ Databases & Backend║ MySQL · Oracle · JSON APIs   ║
+╚═══════════════════╩══════════════════════════════╝
 
 ---
 
