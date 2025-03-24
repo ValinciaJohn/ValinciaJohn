@@ -3,14 +3,14 @@ An enthusiastic Data Science student with a strong drive to apply analytics and 
 
 ---
 
-## ━━ 👩‍💻 About Me ━━  
+## 👩‍💻 About Me  
 • Passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Development**.  
 • Experienced in projects spanning **Computer Vision**, **Natural Language Processing (NLP)**, **Data Analytics**, and **Predictive Modeling**.  
 • Skilled in developing **real-time systems**, working with **ASR technologies**, and applying **deep learning techniques** for practical problem-solving.  
 
 ---
 
-## ━━ 🔧 Tech Stack ━━    
+## 🔧 Tech Stack
 
 **Languages:**  
 🐍 Python   |   💻 C++   |   🗄️ SQL  
@@ -27,7 +27,7 @@ An enthusiastic Data Science student with a strong drive to apply analytics and 
 
 ---
 
-## ━━ 💡 My Work So Far ━━  
+## 💡 My Work So Far  
 **🔹 Real-Time Systems:** Developed **ASR technologies** for speech recognition.  
 **🔹 Computer Vision:** Applied **image analysis** and **video processing** techniques for advanced applications.  
 **🔹 Machine Learning & NLP:** Created solutions for **sentiment analysis**, **emotion detection**, and **predictive modeling**.  
@@ -36,7 +36,7 @@ An enthusiastic Data Science student with a strong drive to apply analytics and 
 
 ---
 
-## ━━ 🌱 Currently Exploring ━━  
+## 🌱 Currently Exploring
 **🚀 Big Data:**  
 Diving into technologies like **PySpark** and **Kafka** for real-time data extraction, processing, and visualization.  
 
