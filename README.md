@@ -1,5 +1,5 @@
 # Hi there, I'm Valincia 👋  
-An enthusiastic Data Science student with a strong drive to apply analytics and advanced technologies to uncover insights and build impactful solutions.
+An enthusiastic 3rd year Data Science student with a strong drive to apply analytics and advanced technologies to uncover insights and build impactful solutions.
 
 ---
 
