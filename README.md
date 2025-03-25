@@ -13,7 +13,7 @@ An enthusiastic 3rd year Data Science student with a strong drive to apply analy
 ## 🔧 Tech Stack
 
 **Languages:**  
-🐍 Python   |   💻 C++   |   🗄️ SQL  
+🐍 Python   |   💻 C++   |   🗄️ SQL  |   ⚛️ React
 
 **Frameworks:**  
 🔥 PyTorch   |   🔶 TensorFlow   |   📊 Scikit-Learn  
